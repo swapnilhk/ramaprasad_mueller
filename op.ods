@@ -1,0 +1,23 @@
+Current Task,Previous Preemption Point,Current Preemption Point,Idle Time Before Preemption Point,Finish Time,Valid/Invalid Preemption Point
+1,0,20,5,19,I
+1,20,40,25,-inf,I
+1,40,60,45,inf,V
+1,60,80,65,69,I
+1,80,100,85,-inf,I
+1,100,120,105,119,I
+1,120,140,125,-inf,I
+1,140,160,145,inf,V
+1,160,180,165,169,I
+1,180,200,185,-inf,I
+2,0,20,15,inf,V
+2,20,40,25,inf,V
+2,40,50,45,inf,V
+2,50,60,-inf,inf,I
+2,60,80,65,inf,V
+2,80,100,85,89,I
+2,100,120,115,-inf,I
+2,120,140,125,-inf,I
+2,140,150,145,-inf,I
+2,150,160,-inf,-inf,I
+2,160,180,165,-inf,I
+2,180,200,185,-inf,I
